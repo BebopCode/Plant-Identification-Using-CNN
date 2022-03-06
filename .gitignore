@@ -1,0 +1,9 @@
+# basic_model.py
+models/convnet_model.json
+models/convnet_weights.h5
+
+# improved_model.py
+models/convnet_improved_model.json
+models/convnet_improved_weights.h5
+
+/databaseimages
